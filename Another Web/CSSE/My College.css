@@ -1,0 +1,22 @@
+html{
+    font-family: FC Galaxy;
+    margin: 0;
+    padding: 0;
+    background-color: honeydew;
+    text-align: center;
+}
+
+h1{
+    font-size: 65px;
+}
+
+p{
+    font-size: 43px;
+    letter-spacing: 4px;
+}
+
+video{
+    border: 2px solid #ff70a9;
+    border-radius: 40px;
+    box-shadow: 2px 2px 8px 4px rgba(238, 79, 195, 0.31);
+}

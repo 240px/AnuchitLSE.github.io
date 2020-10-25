@@ -1,0 +1,22 @@
+html{
+    font-family: FC Galaxy;
+    margin: 0;
+    padding: 0;
+    background-color: honeydew;
+    text-align: center;
+    font-size: 37px;
+}
+
+h1{
+    font-size: 55px;
+}
+
+.kuy{
+    border: 2px solid #ff70a9;
+    box-shadow: 2px 2px 8px 4px rgba(238, 79, 195, 0.31);
+    margin: 20px;
+}
+
+.gege{
+    border: 2px solid #ff70a9;
+}

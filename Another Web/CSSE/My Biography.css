@@ -1,0 +1,13 @@
+html{
+    font-family: FC Galaxy;
+    margin: 0;
+    padding: 0;
+    background-color: honeydew;
+    text-align: center;
+    font-size: 35px;
+}
+
+header{
+    letter-spacing: 3px;
+    font-size: 80px;
+}
